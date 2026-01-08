@@ -3,7 +3,8 @@ title: CV
 ---
 
 📄 **Download my CV (PDF):**  
-[Ullas Shivaprakash – CV](/files/Ullas_Academic_CV.pdf)
+[Ullas Shivaprakash – CV (PDF)](/files/Ullas_Academic_CV.pdf)
+
 
 ---
 
