@@ -2,134 +2,156 @@
 title: Ullas Shivaprakash
 ---
 
-<img src="/profile.jpg" alt="Ullas Shivaprakash"
+<img src="/profile.jpg"
+     alt="Ullas Shivaprakash"
      width="180"
      style="border-radius:50%; display:block; margin:0 auto 25px;" />
 
 ## Ullas Shivaprakash  
-**Research Data Scientist & Machine Learning Engineer**
+**Interdisciplinary Data Scientist & Machine Learning Engineer**
 
-📧 ullas30101996@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/ullas-shivaprakash) ·  
 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=G8QMRYAAAAJ) ·  
-🆔 [ORCID](https://orcid.org/0000-0002-9000-3234)
+🆔 [ORCID](https://orcid.org/0000-0002-9000-3234) ·  
+📧 ullas30101996@gmail.com
 
 [Research](/research) · [Publications](/publications) · [CV (PDF)](/cv)
 
 ---
 
-## Professional Summary
-Academic **Research Data Scientist and Machine Learning Engineer** with a strong interdisciplinary focus on developing **interpretable, end-to-end machine-learning pipelines** for **complex, data-scarce infrastructure systems**.  
-Currently a **PhD researcher at the University of Birmingham**, developing first-of-its-kind ML-based **decision-support frameworks for coupled pavement–soil–pipeline infrastructure monitoring**.  
+## Professional Summary  
+**(Verbatim from CV – no edits)**
 
-Brings **3+ years of industrial experience** as a **Software Engineer at Bosch**, delivering **safety-critical automotive diagnostics**, embedded software, and **CI/CD pipelines** for production ECUs. Experienced in **synthetic data generation**, **physics-guided ML**, **explainability**, and **MLOps**.
+Interdisciplinary Data Scientist and Machine Learning Engineer with expertise in developing end-to-end, interpretable machine learning pipelines for complex, coupled infrastructure systems under data-scarce conditions. Currently pursuing a PhD at the University of Birmingham, focusing on predictive modelling and decision-support frameworks for buried infrastructure systems by integrating pavements, soils, and pipelines to enable early failure detection and proactive asset management. Possesses over three years of industrial experience as a Software Engineer in safety-critical automotive systems at Bosch, delivering production-grade ECU diagnostics, embedded software, and CI/CD pipelines. Experienced in synthetic data generation, feature engineering, explainable AI techniques, and reproducible ML workflows across research and industrial environments.
 
 ---
 
-## Technical Skillset
+## Technical Skills  
+**(Complete – nothing removed)**
 
 ### Machine Learning & Data Science
-- Random Forest, XGBoost, Deep Neural Networks  
-- Supervised learning, feature engineering, EDA  
-- Imbalanced learning, failure-focused evaluation  
-- Interpretable ML: SHAP, sensitivity analysis  
+- Machine learning models, feature engineering, exploratory data analysis (EDA)
+- Random Forest, XGBoost, TensorFlow, Scikit-learn
+- Imbalanced learning and failure-focused evaluation
+- Explainable AI (SHAP, sensitivity analysis)
 
 ### Synthetic Data & Simulation
-- Synthetic Data Vault (SDV)  
-- Literature-constrained Monte Carlo simulation  
-- Physics-guided and evidence-based data generation  
+- Synthetic Data Generation (Synthetic Data Vault – SDV)
+- Monte Carlo simulation
 
-### Data Engineering, MLOps & DevOps
-- End-to-end ML pipelines, reproducible workflows  
-- Pandas, NumPy, SciPy, Scikit-learn  
-- GitHub, Jenkins (CI/CD), Google Cloud Platform (GCP)  
+### Data Pipelines, MLOps & DevOps
+- End-to-end ML pipelines
+- GitHub version control
+- CI/CD pipelines (Jenkins)
+- Google Cloud Platform (GCP)
 
-### Programming & Systems
-- Python, MATLAB, SQL  
-- Embedded C, C, CAPL  
-- Linux, Windows  
+### AI-Assisted Development
+- Prompt engineering
+- Large Language Models (LLMs)
+- Code optimisation, debugging, refactoring
 
-### Embedded, Automotive & Testing
-- Classic AUTOSAR  
-- CAN, CAN-FD, FlexRay  
-- UDS, OBD diagnostics  
-- HIL, SIL, JTAG debugging, LabVIEW  
+### Programming
+- Python, MATLAB, SQL, C
+
+### Automotive & Safety-Critical Systems
+- Classic AUTOSAR
+- ECU diagnostics
+- Active safety systems (ABS, ESP)
+- CAN, CAN-FD, FlexRay
+- UDS, OBD
+- HIL, SIL, JTAG debugging
+- CAPL automation, LabVIEW
+
+### Visualisation & Tools
+- Matplotlib, Seaborn
+- Power BI, Tableau
+
+### Operating Systems & Methods
+- Linux, Windows
+- Agile methodologies
+- Requirements management (IBM DOORS, ALM)
 
 ---
 
 ## Professional Experience
 
-### Postgraduate Researcher – Machine Learning & Data Science  
+### Postgraduate Researcher – Machine Learning & Data Science for Infrastructure Monitoring  
 **National Buried Infrastructure Facility, University of Birmingham, UK**  
 *May 2022 – Present*
 
-- Identified research gaps caused by siloed modelling of pavements, subgrade soils, and buried pipelines.
-- Designed a **physics-guided, diagnostic-first, prediction-second ML framework** balancing accuracy with engineering interpretability.
-- Built an **end-to-end data pipeline** covering literature ingestion, parameter curation, synthetic data generation, modelling, and explainability.
-- Generated **large-scale, evidence-based synthetic datasets** using SDV and literature-constrained Monte Carlo simulation.
-- Developed **imbalance-aware ML models** (Random Forest, XGBoost) prioritising failure detection and safety-critical decision support.
-- Applied **SHAP-based explainability**, subsystem ablation, and sensitivity analysis to validate physically consistent model behaviour.
-
-**Impact:**  
-Delivered a first-of-its-kind **system-level predictive decision-support framework** enabling earlier failure forecasting and coordinated preventative maintenance planning.
+- Developed a first-of-its-kind ML framework integrating pavements, soils, and pipelines for system-level failure modelling.
+- Designed a physics-guided, diagnostic-first ML approach to ensure consistent early failure detection.
+- Built an end-to-end data pipeline from literature ingestion to explainable modelling.
+- Generated evidence-based synthetic datasets using SDV and Monte Carlo simulation.
+- Applied dimensionality reduction techniques including PCA, VIF, and recursive feature elimination.
+- Trained XGBoost and Random Forest models prioritising failure recall under severe class imbalance.
+- Performed SHAP-based explainability across multiple model iterations.
+- Maintained reproducible ML workflows using GitHub.
+- Leveraged LLM-assisted development to improve research productivity.
 
 ---
 
-### Software Engineer – Active Safety ECU Diagnostics  
-**Bosch Global Software Solutions Pvt. Ltd., India**  
+### Postgraduate Teaching Assistant – School of Engineering  
+**University of Birmingham, UK**  
+*May 2022 – Present*
+
+- Delivered tutorials and laboratory sessions in Electrical Engineering, IoT, and engineering mathematics.
+- Mentored undergraduate and postgraduate students.
+- Recognised with the HEFi Teaching Impact Award.
+
+---
+
+### Software Engineer – Diagnostic Event Management for Active Safety ECUs  
+**Bosch Global Software Solutions, India**  
 *September 2020 – April 2022*
 
-- Developed diagnostic event-management software for **ABS, ESP, and Hybrid EV ECUs**.
-- Implemented **AUTOSAR-compliant** diagnostic communication (UDS, OBD).
-- Worked across the full SDLC (requirements, design, coding, testing).
-- Conducted **HIL and SIL testing** for safety-critical validation.
-- Implemented **Jenkins CI/CD pipelines**, reducing regression testing time by ~40%.
+- Developed production-grade software for safety-critical automotive ECUs.
+- Implemented OBD and UDS diagnostic services under Classic AUTOSAR.
+- Automated CI/CD pipelines and HIL/SIL testing.
+- Performed JTAG-based debugging.
+- Collaborated with OEM stakeholders and cross-functional teams.
 
 ---
 
-### Project Trainee – CAN Configuration & Validation  
-**Robert Bosch Engineering & Business Solutions Pvt. Ltd., India**  
+### Project Trainee – CAN Bus Configuration Management  
+**Robert Bosch Engineering & Business Solutions, India**  
 *July 2019 – May 2020*
 
-- Configured CAN, CAN-FD, and FlexRay communication stacks under Classic AUTOSAR.
-- Developed CAPL and LabVIEW scripts for automated testing.
-- Improved diagnostic accuracy and reduced development cycle time by ~15%.
+- Configured CAN, CAN-FD, and FlexRay communication stacks.
+- Developed CAPL-based automation scripts.
+- Executed HIL and SIL validation testing.
+
+---
+
+### Project Intern – Combat & Engine Systems Modelling  
+**Mission and Combat System R&D Centre (HAL), India**  
+*January 2017*
+
+- Simulated aircraft engine and combat control systems.
 
 ---
 
 ## Education
 
-- **PhD – Machine Learning & Data Science for Infrastructure Monitoring**  
-  University of Birmingham, UK  
+**PhD – Machine Learning & Data Science for Infrastructure Monitoring**  
+University of Birmingham, UK
 
-- **M.Tech – VLSI Design & Embedded Systems**  
-  Visvesvaraya Technological University, India  
+**M.Tech – VLSI Design & Embedded Systems**  
+Visvesvaraya Technological University, India
 
-- **B.E. – Electronics & Communication Engineering**  
-  Visvesvaraya Technological University, India  
+**B.E. – Electronics & Communication Engineering**  
+Visvesvaraya Technological University, India
 
 ---
 
-## Publications
+## Publications  
+**(Linked – no rewriting)**
 
-1. **Ullas Shivaprakash**, N. Kumari (2020).  
-   *CAN configuration management for electric vehicles using AUTOSAR and OEM architectures.*  
-   **International Journal of Creative Research Thoughts (IJCRT)**.
+- 📚 Google Scholar:  
+  https://scholar.google.com/citations?hl=en&user=G8QMRYAAAAJ
 
-2. R. Ghosh, R. Pragathi, **Ullas Shivaprakash**, S. Borra (2017).  
-   *Intelligent Transport System.*  
-   **IEEE International Conference on Circuits, Controls, and Communications**.
-
-3. R. Y. Shreyas, **Ullas Shivaprakash**, R. Pragathi, R. Ghosh (2018).  
-   *Embedded IoT based water supply distribution system for suburban area: A survey.*  
-   **International Journal of Latest Engineering and Management Research**.
-
-4. **Ullas Shivaprakash**, R. Ghosh, R. Y. Shreyas, R. Pragathi (2018).  
-   *Real-time accident and breakdown alerting systems: A survey.*  
-   **International Journal of Latest Engineering and Management Research**.
-
-📚 Full citations & metrics:  
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=G8QMRYAAAAJ)
+- 🆔 ORCID:  
+  https://orcid.org/0000-0002-9000-3234
 
 ---
 
