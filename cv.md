@@ -2,11 +2,8 @@
 title: CV
 ---
 
-# Curriculum Vitae
-
-📄 **Download my CV:**  
-[Ullas Shivaprakash – CV (PDF)](/files/Ullas_Academic_CV.pdf)
-
+📄 **Download my CV (PDF):**  
+[Ullas Shivaprakash – CV](/files/Ullas_Academic_CV.pdf)
 
 ---
 
