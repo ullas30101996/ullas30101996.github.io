@@ -20,7 +20,6 @@ title: Ullas Shivaprakash
 ---
 
 ## Professional Summary  
-**(Verbatim from CV – no edits)**
 
 Interdisciplinary Data Scientist and Machine Learning Engineer with expertise in developing end-to-end, interpretable machine learning pipelines for complex, coupled infrastructure systems under data-scarce conditions. Currently pursuing a PhD at the University of Birmingham, focusing on predictive modelling and decision-support frameworks for buried infrastructure systems by integrating pavements, soils, and pipelines to enable early failure detection and proactive asset management. Possesses over three years of industrial experience as a Software Engineer in safety-critical automotive systems at Bosch, delivering production-grade ECU diagnostics, embedded software, and CI/CD pipelines. Experienced in synthetic data generation, feature engineering, explainable AI techniques, and reproducible ML workflows across research and industrial environments.
 
@@ -144,7 +143,6 @@ Visvesvaraya Technological University, India
 ---
 
 ## Publications  
-**(Linked – no rewriting)**
 
 - 📚 Google Scholar:  
   https://scholar.google.com/citations?hl=en&user=G8QMRYAAAAJ
