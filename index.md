@@ -27,7 +27,6 @@ Interdisciplinary Data Scientist and Machine Learning Engineer with expertise in
 ---
 
 ## Technical Skills  
-**(Complete – nothing removed)**
 
 ### Machine Learning & Data Science
 - Machine learning models, feature engineering, exploratory data analysis (EDA)
