@@ -8,7 +8,7 @@ title: Ullas Shivaprakash
      style="border-radius:50%; display:block; margin:0 auto 25px;" />
 
 ## Ullas Shivaprakash  
-**Interdisciplinary Data Scientist & Machine Learning Engineer**
+**Research Data Scientist & Machine Learning Engineer**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ullas-shivaprakash) ·  
 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=G8QMRYAAAAJ) ·  
