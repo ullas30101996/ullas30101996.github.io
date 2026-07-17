@@ -22,10 +22,10 @@ Active  Visa holder with full residency and independent work privileges. Possess
 * **Testing, Validation & Root Cause Analysis**: Hardware-in-the-Loop (HIL), Software-in-the-Loop (SIL), automated ECU test benches, CAPL scripting, LabVIEW engineering, JTAG boundary-scan debugging, and systematic Root Cause Analysis (RCA).
 * **Commercial, IP Strategy & Governance**: Freedom-to-Operate (FTO) analysis, European Patent Convention (EPC) patentability frameworks, prior art mapping, technology transfer governance, and circular economy business models.
 * **Academic Teaching & Pedagogy**: Higher education lesson and inclusive assessment design, academic student mentorship, and training in complex telemetry systems (formally aligned with UKPSF and certified with AFHEA status).
-
 ### D. Professional Experience
 
-**Lead AI Product Owner & Solutions Architect (KTP Associate)** | AMDEA & City St George’s, University of London | London, UK | June 2026 – Present
+### Lead AI Product Owner & Solutions Architect (KTP Associate)
+**AMDEA & City St George’s, University of London** | London, UK | June 2026 – Present
 
 Project Profile: Leading end-to-end product strategy, technical architecture, and ML pipelines for a first-of-its-kind national predictive diagnostics and compliance platform for the £8bn UK appliance sector (80% of manufacturers), directly supporting UK "Right to Repair" legislation.
 
@@ -55,78 +55,37 @@ Project Profile: Leading end-to-end product strategy, technical architecture, an
 
 ***
 
-**Postgraduate Researcher - Machine Learning and Data Science for Infrastructure Monitoring** | National Buried Infrastructure Facility, University of Birmingham, UK | May 2022 – Present
+### Postgraduate Researcher - Machine Learning and Data Science for Infrastructure Monitoring
+**National Buried Infrastructure Facility, University of Birmingham, UK** | May 2022 – Present
 
 * Targeted the smart city planning flaw of isolated, siloed modelling of pavements, subgrade soils, and buried pipelines, which left asset management teams blind to systemic cross-asset degradation hidden under roads.
 * Addressed the failure of standard data frameworks to capture cascading, inter-dependent underground failures and feedback-driven interaction collapses.
-* Resolved severe physical data scarcity that prohibited the deployment of standard, unguided machine learning models in safety-critical urban monitoring environments.
 * Created a physics-guided, diagnostic-first machine learning framework that integrates three distinct infrastructure subsystems into a unified system-of-systems smart city model.
 * Overcame real-world data scarcity by generating large-scale, evidence-based synthetic datasets via Synthetic Data Vault (SDV) and literature-constrained Monte Carlo simulations.
-* Implemented joint exploratory analysis and rigorous feature engineering using Variance Inflation Factor (VIF) and diagnostic PCA to contract the feature space by ~40%.
 * Built imbalance-aware predictive models using Random Forest and XGBoost, selecting algorithms optimized for failure recall and macro F1-scores to catch critical structural anomalies.
-* Validated decision-logic consistency across 50+ experimental model runs via SHAP-based explainability, sensitivity benchmarking, and subsystem ablation.
-* Leveraged Large Language Models (LLMs) to optimize code architecture, debug complex simulation workflows, and maintain version-controlled MLOps pipelines on GitHub.
-* Empowered civil asset-management organizations, municipal smart city planners, infrastructure owners, and utility operators with data-driven decision capabilities.
-* Contributed to the academic research community in civil systems engineering, environmental monitoring, and urban telemetry through high-quality peer-reviewed journal publications.
-* Reduced manual data preparation and collection efforts by ~60% across repeated experiment environments.
-* Accelerated software prototyping and research code throughput by ~70% via strategic LLM-assisted development.
-* Shifted urban decision-making from reactive, single-asset repairs to risk-informed, system-level proactive maintenance planning, significantly decreasing unplanned emergency repair costs and improving city resilience.
+* Validated decision-logic consistency across 50+ experimental model runs via SHAP-based explainability and sensitivity benchmarking.
+* Shifted urban decision-making from reactive, single-asset repairs to risk-informed, system-level proactive maintenance planning.
 
 ***
 
-**Postgraduate Teaching Assistant - School of Engineering** | University of Birmingham, UK | May 2022 – June 2026
+### Postgraduate Teaching Assistant - School of Engineering
+**University of Birmingham, UK** | May 2022 – June 2026
 
-* Confronted the pedagogical gap in higher education engineering programs between dry, abstract mathematical theories and concrete, practical field applications.
-* Remedied the resulting drop in student engagement and diminished technical confidence when building hands-on physical hardware systems.
-* Led laboratory sessions, delivered interactive tutorials, and provided technical consultation across 6+ modules, including IoT applications, Embedded C Programming, Digital Electronics, and Fluid Mechanics.
+* Led laboratory sessions, delivered interactive tutorials, and provided technical consultation across 6+ modules, including IoT applications, Embedded C Programming, and Digital Electronics.
 * Recontextualized abstract engineering math by mapping class problems directly to real-world smart city infrastructure and environmental telemetry use cases.
-* Mentored undergraduate and Master's engineering students through complex design, technical documentation, and scientific presentation workflows.
-* Collaborated with senior academic faculty to refine module structures through student feedback loops and reflective teaching practices.
-* Supported over 100+ undergraduate and postgraduate engineering students seeking industry-ready technical competencies.
-* Generated high-value pedagogical enhancements for the University of Birmingham School of Engineering academic development board.
 * Boosted average student technical project performance and laboratory marks by ~20%.
-* Cultivated an inclusive learning atmosphere that earned a formal university HEFI Teaching Impact Award.
 * Formally aligned university teaching methodologies with the UK Professional Standards Framework (UKPSF), resulting in AFHEA Teaching Certification.
 
 ***
 
-**Software Engineer - Diagnostic Event Management for Active Safety ECUs** | Bosch Global Software Solutions Pvt. Ltd, Bangalore, India | September 2020 – April 2022
+### Software Engineer - Diagnostic Event Management for Active Safety ECUs
+**Bosch Global Software Solutions Pvt. Ltd, Bangalore, India** | September 2020 – April 2022
 
-* Targeted the zero-fault software execution tolerance required by safety-critical Electronic Control Units (ECUs) governing active vehicle stability and hybrid powertrains.
-* Overcame the limitations of inefficient manual regression validation setups and unoptimized fault logging that delayed software release cycles and created severe bottlenecks under aggressive international Suzuki OEM production timelines.
-* Managed software engineering across the full Software Development Life Cycle (SDLC) following strict quality assurance standards.
 * Programmed and configured Diagnostic Communication Manager (DCM) modules in Embedded C to define DTCs, fault memories, and error routines.
 * Directed the implementation of OBD and UDS diagnostic messaging protocols inside a Classic AUTOSAR software stack.
 * Engineered automated ECU test benches utilizing CAPL and LabVIEW scripts and established automated Jenkins CI/CD validation pipelines.
-* Debugged hardware-to-software signal boundaries using JTAG interfaces and queried structured diagnostic logging datasets using SQL to isolate edge-case faults.
-* Supported international automotive OEM engineering teams and high-volume vehicle manufacturing production lines.
-* Facilitated seamless development for cross-functional enterprise software delivery and safety verification teams.
 * Slashed automated regression validation and testing overhead times by 40% via script-driven test benches.
 * Shortened the overall software deployment and release cycles by ~25%.
-* Delivered highly robust, production-grade automotive diagnostic software, guaranteeing zero-defect deployment across high-stakes safety systems.
-
-***
-
-**Project Trainee - CAN Bus Configuration Management for Active Safety ECUs** | Robert Bosch Engineering and Business Solutions Pvt. Ltd, India | July 2019 – May 2020
-
-* Solved the network stack issues where misalignments and unoptimized routing across multi-layered network communication stacks (COM and SCL layers) caused data delays and signal discrepancies in active safety modules.
-* Addressed the resulting delays in cross-functional integration testing and reduced configuration consistency during vehicle validation stages.
-* Programmed and configured CAN, CAN FD, and Flex Ray protocol network communication layers to guarantee compliant vehicle networking under Classic AUTOSAR benchmarks.
-* Wrote customized CAPL automation test scripts and LabVIEW setups to continuous-test signal routing layers and monitor network stack integrity.
-* Conducted extensive Hardware-in-the-Loop (HIL) and Software-in-the-Loop (SIL) simulation tests to map out ECU behaviours under true-to-life vehicle operating configurations.
-* Provided optimized configurations for internal automotive embedded software developers, vehicle calibration engineers, Suzuki OEM integration groups, and system calibration networks.
-* Slashed vehicle software system development and optimization cycles by 15%.
-* Enhanced diagnostic accuracy while significantly diminishing manual verification engineering hours through automated script deployment.
-
-***
-
-**Project Intern - Combat & Engine Systems Modelling** | Hindustan Aeronautics Limited (HAL), Bengaluru, India | January 2017
-
-* Tackled the absolute precision required in electromechanical interface mapping for high-consequence military aerospace platforms, where minor simulation drift can destabilize engine fuel regulation models.
-* Programmed and simulated mission-critical embedded control blocks managing aircraft fuel regulation loops and military combat systems.
-* Evaluated flight control architecture frameworks to isolate system flaws and assess physical engine behaviours under intense simulated workloads.
-* Enabled precision verification loops for defence R&D systems engineering teams, military aviation software architects, and mission-critical simulation divisions.
-* Successfully verified embedded control loops against stringent military aerospace benchmarks, providing foundational techniques for subsequent safety-critical automotive configurations.
 
 ### E. Education
 1. **PhD in Machine Learning and Data Science for Infrastructure Monitoring**, National Buried Infrastructure Facility, University of Birmingham, UK | May 2022 - Present
