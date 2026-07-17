@@ -8,7 +8,7 @@
 ---
 
 ### A. Visa Status & Work Authorization
-Active Global Talent Visa holder with full residency and independent work privileges valid until June 04, 2031. Possesses complete professional autonomy in the United Kingdom with absolute freedom from employer visa sponsorship, administrative transfers, or bureaucratic assistance.
+Active Visa holder with full residency and independent work privileges. Possesses complete professional autonomy in the United Kingdom with absolute freedom from employer visa sponsorship, administrative transfers, or bureaucratic assistance.
 
 ### B. Professional Summary
 Interdisciplinary Lead AI Product Owner & Solutions Architect specializing in enterprise-scale predictive maintenance, secure multi-tenant cloud architecture, and carbon-accounting data systems. Currently spearheading a high-profile Innovate UK Knowledge Transfer Partnership (KTP) to architect and scale a national predictive diagnostics database and compliance platform for the £8bn UK appliance sector—actively supporting the UK Government's "right to repair" legislative framework. This commercial leadership is backed by doctoral research (PhD) at a top UK Russell Group university, where I engineered a smart city machine learning framework. Grounded in a strong, foundational career in safety-critical automotive systems at Bosch. Complementing this is an academic background in higher education pedagogy, holding an Associate Fellowship (AFHEA).
