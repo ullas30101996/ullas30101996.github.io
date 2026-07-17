@@ -27,21 +27,25 @@ Active  Visa holder with full residency and independent work privileges. Possess
 
 **Lead AI Product Owner & Solutions Architect (KTP Associate)** | AMDEA & City St George’s, University of London | London, UK | June 2026 – Present
 
-**Project Profile**: Leading end-to-end product strategy, technical architecture, and ML pipelines for a first-of-its-kind national predictive diagnostics and compliance platform for the £8bn UK appliance sector (80% of manufacturers), directly supporting UK "Right to Repair" legislation.
+Project Profile: Leading end-to-end product strategy, technical architecture, and ML pipelines for a first-of-its-kind national predictive diagnostics and compliance platform for the £8bn UK appliance sector (80% of manufacturers), directly supporting UK "Right to Repair" legislation.
+
 **Product Ownership & Stakeholder Management**
 • End-to-End Product Ownership: Directing the product lifecycle, backlog, and sprint planning for two flagship digital platforms: Failure & Root Cause Assessment and Repair Net-Zero Carbon Footprint.
 • High-Value Stakeholder Management: Navigating competitive dynamics across global brands (Miele, Beko Europe, Electrolux, Bosch/BSH) to secure legal data-sharing agreements and execute technical integration pilots.
 • Agile Project Leadership: Coordinating academic, industrial, and government (UKRI / Innovate UK) teams under a hybrid Agile/PRINCE2 framework; reporting commercial risk-assessment matrices directly to the LMC Board.
+
 **Technical Architecture & System Engineering**
 • Multi-Tenant Database Design: Architecting secure, scalable relational (MySQL) and non-relational database schemas and automated regex-driven ETL pipelines to standardize millions of unstructured, heterogeneous failure-log datasets.
 • Cyber-Secure Cloud Gateway: Designing a proprietary B2B data-sharing protocol with logical multi-tenant schema isolation layers via AWS VPC to programmatically prevent cross-tenant leaks.
 • Data Privacy & API Ingestion: Implementing strict SHA-256 cryptographic hashing at the cloud firewall perimeter to scrub device identifiers and building high-volume FastAPI REST API gateways for real-time telemetry.
 • Phased Prototype Deployment: Spearheading a risk-mitigated roadmap by engineering 3 progressive-complexity physical prototypes using synthetic data to secure early industry buy-in.
+
 **AI, Machine Learning & Analytics**
 • Predictive Maintenance Modeling: Training and deploying ensemble ML classifiers (XGBoost, Random Forests) on high-dimensional sensor telemetry to forecast thermal and current anomalies.
 • Advanced ML Optimization: Resolving extreme class imbalances and noisy features in field telemetry using SMOTE and Recursive Feature Elimination (RFE).
 • Root Cause AI Diagnostics: Engineering an analogy-based AI estimation and semantic rule engine to classify electrical/mechanical faults into actionable, step-by-step physical repair workflows.
 • Carbon Footprint Analytics: Building an automated kg CO2e and cost data-modeling framework (parameterized for Greenly, Sterling, 2030 Calculator) to analyze the carbon impact of repair versus replacement.
+
 **Commercialization, Dissemination & Impact**
 • Commercial: Built a Neutral Data Broker Model projected to cut warranty costs by 5% (a 3% sector profit increase); designed subscription scaling to capture 90% of UK manufacturers in 5 years.
 • Environmental: Replaced static spreadsheets with real-time, on-site carbon calculators aligning with the Environment Act (2021) and UN SDG 12 to divert electronic waste from landfills.
@@ -49,7 +53,10 @@ Active  Visa holder with full residency and independent work privileges. Possess
 • Academic & Technical: Enriched five Undergraduate programmes and the MSc in Advanced Mechanical Engineering at City St George's; drafting papers for Computers in Industry and JIPE.
 • Personal Career Growth: Secured a £7,500 training budget (AWS Data Engineer, PRINCE2) with strategic alignment to transition into a permanent role under a long-term £835,000 post-project HR roadmap.
 
+***
+
 **Postgraduate Researcher - Machine Learning and Data Science for Infrastructure Monitoring** | National Buried Infrastructure Facility, University of Birmingham, UK | May 2022 – Present
+
 • Targeted the smart city planning flaw of isolated, siloed modelling of pavements, subgrade soils, and buried pipelines, which left asset management teams blind to systemic cross-asset degradation hidden under roads.
 • Addressed the failure of standard data frameworks to capture cascading, inter-dependent underground failures and feedback-driven interaction collapses.
 • Resolved severe physical data scarcity that prohibited the deployment of standard, unguided machine learning models in safety-critical urban monitoring environments.
@@ -65,7 +72,10 @@ Active  Visa holder with full residency and independent work privileges. Possess
 • Accelerated software prototyping and research code throughput by ~70% via strategic LLM-assisted development.
 • Shifted urban decision-making from reactive, single-asset repairs to risk-informed, system-level proactive maintenance planning, significantly decreasing unplanned emergency repair costs and improving city resilience.
 
+***
+
 **Postgraduate Teaching Assistant - School of Engineering** | University of Birmingham, UK | May 2022 – June 2026
+
 • Confronted the pedagogical gap in higher education engineering programs between dry, abstract mathematical theories and concrete, practical field applications.
 • Remedied the resulting drop in student engagement and diminished technical confidence when building hands-on physical hardware systems.
 • Led laboratory sessions, delivered interactive tutorials, and provided technical consultation across 6+ modules, including IoT applications, Embedded C Programming, Digital Electronics, and Fluid Mechanics.
@@ -78,7 +88,10 @@ Active  Visa holder with full residency and independent work privileges. Possess
 • Cultivated an inclusive learning atmosphere that earned a formal university HEFI Teaching Impact Award.
 • Formally aligned university teaching methodologies with the UK Professional Standards Framework (UKPSF), resulting in AFHEA Teaching Certification.
 
+***
+
 **Software Engineer - Diagnostic Event Management for Active Safety ECUs** | Bosch Global Software Solutions Pvt. Ltd, Bangalore, India | September 2020 – April 2022
+
 • Targeted the zero-fault software execution tolerance required by safety-critical Electronic Control Units (ECUs) governing active vehicle stability and hybrid powertrains.
 • Overcame the limitations of inefficient manual regression validation setups and unoptimized fault logging that delayed software release cycles and created severe bottlenecks under aggressive international Suzuki OEM production timelines.
 • Managed software engineering across the full Software Development Life Cycle (SDLC) following strict quality assurance standards.
@@ -92,7 +105,10 @@ Active  Visa holder with full residency and independent work privileges. Possess
 • Shortened the overall software deployment and release cycles by ~25%.
 • Delivered highly robust, production-grade automotive diagnostic software, guaranteeing zero-defect deployment across high-stakes safety systems.
 
-**Project Trainee - CAN Bus Configuration Management for Active Safety ECUs** | Robert Bosch Engineering and Business Solutions Pvt. Ltd, India| July 2019 – May 2020
+***
+
+**Project Trainee - CAN Bus Configuration Management for Active Safety ECUs** | Robert Bosch Engineering and Business Solutions Pvt. Ltd, India | July 2019 – May 2020
+
 • Solved the network stack issues where misalignments and unoptimized routing across multi-layered network communication stacks (COM and SCL layers) caused data delays and signal discrepancies in active safety modules.
 • Addressed the resulting delays in cross-functional integration testing and reduced configuration consistency during vehicle validation stages.
 • Programmed and configured CAN, CAN FD, and Flex Ray protocol network communication layers to guarantee compliant vehicle networking under Classic AUTOSAR benchmarks.
@@ -102,7 +118,10 @@ Active  Visa holder with full residency and independent work privileges. Possess
 • Slashed vehicle software system development and optimization cycles by 15%.
 • Enhanced diagnostic accuracy while significantly diminishing manual verification engineering hours through automated script deployment.
 
-**Project Intern - Combat & Engine Systems Modelling** | Hindustan Aeronautics Limited (HAL), Bengaluru, India| January 2017
+***
+
+**Project Intern - Combat & Engine Systems Modelling** | Hindustan Aeronautics Limited (HAL), Bengaluru, India | January 2017
+
 • Tackled the absolute precision required in electromechanical interface mapping for high-consequence military aerospace platforms, where minor simulation drift can destabilize engine fuel regulation models.
 • Programmed and simulated mission-critical embedded control blocks managing aircraft fuel regulation loops and military combat systems.
 • Evaluated flight control architecture frameworks to isolate system flaws and assess physical engine behaviours under intense simulated workloads.
