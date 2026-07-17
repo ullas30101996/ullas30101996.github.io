@@ -132,9 +132,9 @@ Project Profile: Leading end-to-end product strategy, technical architecture, an
 * Successfully verified embedded control loops against stringent military aerospace benchmarks, providing foundational techniques for subsequent safety-critical automotive configurations.
 
 ### E. Education
-1. **PhD in Machine Learning and Data Science for Infrastructure Monitoring**, National Buried Infrastructure Facility, University of Birmingham, UK | May 2022 - Present
-2. **M.Tech in VLSI Design & Embedded Systems**, Visvesvaraya Technological University, India | October 2018 - August 2020 | GPA: 4.0
-3. **B.E. in Electronics & Communication Engineering**, Visvesvaraya Technological University, India | September 2014 - June 2018 | GPA: 3.7
+1. **PhD in Machine Learning and Data Science for Infrastructure Monitoring**, National Buried Infrastructure Facility, University of Birmingham, UK, May 2022 - Present
+2. **M.Tech in VLSI Design & Embedded Systems**, Visvesvaraya Technological University, India, October 2018 - August 2020, GPA: 4.0
+3. **B.E. in Electronics & Communication Engineering**, Visvesvaraya Technological University, India, September 2014 - June 2018, GPA: 3.7
 
 ### F. Certifications and Licenses
 * **Intellectual Property & Commercialization Strategy | European Patent Academy (EPO) | Awarded: June 2026**
@@ -152,7 +152,7 @@ Project Profile: Leading end-to-end product strategy, technical architecture, an
 * Second Prize: Smart Water Irrigation IoT System (Undergraduate Final Year Project).
 
 ### I. Core Technical Publications
-1. Ghosh, R., Pragathi, R., Ullas, S. and Borra, S., 2017. Intelligent Transport System. *IEEE*. Citations: 18.
-2. Ullas, S. and Kumari, N., 2020. CAN configuration management for electric vehicles using AUTOSAR and OEM-architectures. *IJCRT*.
-3. Shreyas, R.Y., Ullas, S., Pragathi, R. and Ghosh, R., 2018. Embedded IoT based water supply distribution system for suburban area: A survey. *IJLEMR*.
-4. Ullas, S., Ghosh, R., Shreyas, R.Y. and Pragathi, R., 2018. Real-time accident and breakdown alerting systems: A survey. *IJLEMR*.
+1. Ghosh, R., Pragathi, R., **Ullas, S**. and Borra, S., 2017. Intelligent Transport System. *IEEE*. Citations: 18.
+2. **Ullas, S**. and Kumari, N., 2020. CAN configuration management for electric vehicles using AUTOSAR and OEM-architectures. *IJCRT*.
+3. Shreyas, R.Y., **Ullas, S.**, Pragathi, R. and Ghosh, R., 2018. Embedded IoT based water supply distribution system for suburban area: A survey. *IJLEMR*.
+4. **Ullas, S.**, Ghosh, R., Shreyas, R.Y. and Pragathi, R., 2018. Real-time accident and breakdown alerting systems: A survey. *IJLEMR*.
