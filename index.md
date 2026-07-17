@@ -53,8 +53,6 @@ Project Profile: Leading end-to-end product strategy, technical architecture, an
 * Commercial: Built a Neutral Data Broker Model projected to cut warranty costs by 5% (a 3% sector profit increase); designed subscription scaling to capture 90% of UK manufacturers in 5 years.
 * Environmental: Replaced static spreadsheets with real-time, on-site carbon calculators aligning with the Environment Act (2021) and UN SDG 12 to divert electronic waste from landfills.
 * Social & Economic: Addressed the UK technician shortage by converting complex telemetry into a standardized national training taxonomy to accelerate apprentice field deployment.
-* Academic & Technical: Enriched five Undergraduate programmes and the MSc in Advanced Mechanical Engineering at City St George's; drafting papers for Computers in Industry and JIPE.
-* Personal Career Growth: Secured a £7,500 training budget (AWS Data Engineer, PRINCE2) with strategic alignment to transition into a permanent role under a long-term £835,000 post-project HR roadmap.
 
 ---
 
