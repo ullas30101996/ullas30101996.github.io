@@ -1,8 +1,7 @@
 ![Ullas Shivaprakash](WhatsApp%20Image%202026-06-15%20at%2020.32.56%20(11).jpeg)
 
 # Ullas Shivaprakash
-+44 7442625595 | ullas30101996@gmail.com
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Google Scholar](https://scholar.google.com/citations?user=your_id) | [ORCID](https://orcid.org/0000-0000-0000-0000) | [Portfolio](https://ullas30101996.github.io)
++44 7442625595 | ullas30101996@gmail.com | [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Google Scholar](https://scholar.google.com/citations?user=your_id) | [ORCID](https://orcid.org/0000-0000-0000-0000) | [Portfolio](https://ullas30101996.github.io)
 
 ### A. Visa Status & Work Authorization
 Active  Visa holder with full residency and independent work privileges. Possesses complete professional autonomy in the United Kingdom with absolute freedom from employer visa sponsorship, administrative transfers, or bureaucratic assistance.
