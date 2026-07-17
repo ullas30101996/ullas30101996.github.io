@@ -137,14 +137,14 @@ Project Profile: Leading end-to-end product strategy, technical architecture, an
 3. **B.E. in Electronics & Communication Engineering**, Visvesvaraya Technological University, India, September 2014 - June 2018, GPA: 3.7
 
 ### F. Certifications and Licenses
-* **Intellectual Property & Commercialization Strategy | European Patent Academy (EPO) | Awarded: June 2026**
-    * Advanced Level (UV02-2026): Grade 79.00% | ID: eRBBmSxubf
-    * Entry Level (UV01-2026): Grade 89.50% | ID: Z3M7qsTzE6
-* **Academic Teaching & Pedagogy (AFHEA) | Advance HE, UK | Awarded: June 2026**
+* **Intellectual Property & Commercialization Strategy, European Patent Academy (EPO), Awarded: June 2026**
+    * Advanced Level (UV02-2026): Grade 79.00%, **ID: eRBBmSxubf**
+    * Entry Level (UV01-2026): Grade 89.50%, **ID: Z3M7qsTzE6**
+* **Academic Teaching & Pedagogy (AFHEA), Advance HE, UK, Awarded: June 2026**
 
 ### G. Leadership & Volunteering Experience
-* **Postgraduate Researchers' Representative | School of Engineering, University of Birmingham | Sept 2024 - Present**
-* **Workshop Coordinator - Communication & Leadership | University of Birmingham | June 2025**
+* **Postgraduate Researchers' Representative, School of Engineering, University of Birmingham, Sept 2024 - Present**
+* **Workshop Coordinator - Communication & Leadership, University of Birmingham, June 2025**
 
 ### H. Key Technical Achievements
 * Best Poster Award: IEEE UK & Ireland Symposium (2023).
