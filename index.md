@@ -139,16 +139,16 @@ Project Profile: Leading end-to-end product strategy, technical architecture, an
 ### F. Certifications and Licenses
 
 * **Intellectual Property & Commercialization Strategy** - European Patent Academy (EPO) - Awarded: June 2026
-    * Advanced Level (UV02-2026): Grade 79.00% | ID: eRBBmSxubf
-    * Entry Level (UV01-2026): Grade 89.50% | ID: Z3M7qsTzE6
+    * Advanced Level (UV02-2026), Grade 79.00%, ID: eRBBmSxubf
+    * Entry Level (UV01-2026), Grade 89.50%, ID: Z3M7qsTzE6
 
 * **Academic Teaching & Pedagogy (AFHEA)** - Advance HE, UK - Awarded: June 2026
 
 ### G. Leadership & Volunteering Experience
 
-* **Postgraduate Researchers’ Representative** | School of Engineering, University of Birmingham | Sept 2024 – Present
+* **Postgraduate Researchers’ Representative**, School of Engineering, University of Birmingham, Sept 2024 – Present
 
-* **Workshop Coordinator - Communication & Leadership** | University of Birmingham | June 2025
+* **Workshop Coordinator - Communication & Leadership**, University of Birmingham, June 2025
 
 ### I. Core Technical Publications
 1. Ghosh, R., Pragathi, R., **Ullas, S**. and Borra, S., 2017. Intelligent Transport System. *IEEE*. Citations: 18.
