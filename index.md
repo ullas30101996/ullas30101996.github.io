@@ -1,7 +1,6 @@
 ![Ullas Shivaprakash](profile.jpeg)
 
 # Ullas Shivaprakash
-**Lead AI Product Owner & Solutions Architect | Machine Learning Engineer**
 
 [+44 7442625595](tel:+447442625595), [ullas30101996@gmail.com](mailto:ullas30101996@gmail.com), [LinkedIn](https://www.linkedin.com/in/ullas-shivaprakash/), [Google Scholar](https://scholar.google.com/citations?user=your_id), [ORCID](https://orcid.org/0000-0002-9000-3234), [Portfolio](https://ullas30101996.github.io)
 
@@ -9,7 +8,7 @@
 Active Visa holder with full residency and independent work privileges. Possesses complete professional autonomy in the United Kingdom with absolute freedom from employer visa sponsorship, administrative transfers, or bureaucratic assistance.
 
 ### B. Professional Summary
-Interdisciplinary Lead Al Product Owner & Solutions Architect specializing in enterprise-scale predictive maintenance, secure multi-tenant cloud architecture, and carbon-accounting data systems. Currently spearheading a high-profile Innovate UK Knowledge Transfer Partnership (KTP) to architect and scale a national predictive diagnostics database and compliance platform for the £8bn UK appliance sector—actively supporting the UK Government's "right to repair" legislative framework to incentivize repair over premature replacement. This commercial leadership is backed by doctoral research (PhD) at a top UK Russell Group university, where they engineered a smart city machine learning framework to deliver predictive maintenance models for buried infrastructure, directly improving predictive performance for municipal utility and asset management companies. Grounded in a strong, foundational career in safety-critical automotive systems at Bosch, where they specialized in software development, diagnostic logging configuration, and automated testing pipelines for active safety ECUs. Complementing this technical depth is an academic background in higher education pedagogy, holding an Associate Fellowship (AFHEA) and teaching complex engineering modules to the next generation of engineers.
+Interdisciplinary **Lead Al Product Owner & Solutions Architect** specializing in enterprise-scale predictive maintenance, secure **multi-tenant cloud architecture**, and **carbon-accounting data systems**. Currently spearheading a high-profile **Innovate UK Knowledge Transfer Partnership (KTP)** to architect and scale a national **predictive diagnostics database and compliance platform** for the £8bn UK appliance sector—actively supporting the **UK Government's "right to repair"** **legislative framework** to incentivize repair over premature replacement. This commercial leadership is backed by doctoral research (PhD) at a top UK Russell Group university, where they engineered a **smart city machine learning framework** to deliver **predictive maintenance models for buried infrastructure**, directly improving **predictive performance for municipal utility and asset management companies**. Grounded in a strong, foundational career in safety-critical automotive systems at **Bosch**, where they specialized in **software development, diagnostic logging configuration, and automated testing pipelines** for **active safety ECUs**. Complementing this technical depth is an academic background in **higher education pedagogy**, holding an **Associate Fellowship (AFHEA)** and teaching complex engineering modules to the next generation of engineers.
 
 ### C. Skills Summary
 * **Product Ownership & Agile Leadership**: End-to-end Product Roadmapping, Backlog Management, User Story Mapping, Sprint Planning, Stakeholder Alignment, Hybrid Agile/PRINCE2 methodologies, and LMC Governance.
@@ -33,26 +32,26 @@ Interdisciplinary Lead Al Product Owner & Solutions Architect specializing in en
 Project Profile: Leading end-to-end product strategy, technical architecture, and ML pipelines for a first-of-its-kind national predictive diagnostics and compliance platform for the £8bn UK appliance sector (80% of manufacturers), directly supporting UK "Right to Repair" legislation.
 
 **Product Ownership & Stakeholder Management**
-* End-to-End Product Ownership: Directing the product lifecycle, backlog, and sprint planning for two flagship digital platforms: Failure & Root Cause Assessment and Repair Net-Zero Carbon Footprint.
-* High-Value Stakeholder Management: Navigating competitive dynamics across global brands (Miele, Beko Europe, Electrolux, Bosch/BSH) to secure legal data-sharing agreements and execute technical integration pilots.
-* Agile Project Leadership: Coordinating academic, industrial, and government (UKRI / Innovate UK) teams under a hybrid Agile/PRINCE2 framework; reporting commercial risk-assessment matrices directly to the LMC Board.
+* **End-to-End Product Ownership**: Directing the product lifecycle, backlog, and sprint planning for two flagship digital platforms: Failure & Root Cause Assessment and Repair Net-Zero Carbon Footprint.
+* **High-Value Stakeholder Management**: Navigating competitive dynamics across global brands (Miele, Beko Europe, Electrolux, Bosch/BSH) to secure legal data-sharing agreements and execute technical integration pilots.
+* **Agile Project Leadership**: Coordinating academic, industrial, and government (UKRI / Innovate UK) teams under a hybrid Agile/PRINCE2 framework; reporting commercial risk-assessment matrices directly to the LMC Board.
 
 **Technical Architecture & System Engineering**
-* Multi-Tenant Database Design: Architecting secure, scalable relational (MySQL) and non-relational database schemas and automated regex-driven ETL pipelines to standardize millions of unstructured, heterogeneous failure-log datasets.
-* Cyber-Secure Cloud Gateway: Designing a proprietary B2B data-sharing protocol with logical multi-tenant schema isolation layers via AWS VPC to programmatically prevent cross-tenant leaks.
-* Data Privacy & API Ingestion: Implementing strict SHA-256 cryptographic hashing at the cloud firewall perimeter to scrub device identifiers and building high-volume FastAPI REST API gateways for real-time telemetry.
-* Phased Prototype Deployment: Spearheading a risk-mitigated roadmap by engineering 3 progressive-complexity physical prototypes using synthetic data to secure early industry buy-in.
+* **Multi-Tenant Database Design**: Architecting secure, scalable relational (MySQL) and non-relational database schemas and automated regex-driven ETL pipelines to standardize millions of unstructured, heterogeneous failure-log datasets.
+* **Cyber-Secure Cloud Gateway**: Designing a proprietary B2B data-sharing protocol with logical multi-tenant schema isolation layers via AWS VPC to programmatically prevent cross-tenant leaks.
+* **Data Privacy & API Ingestion**: Implementing strict SHA-256 cryptographic hashing at the cloud firewall perimeter to scrub device identifiers and building high-volume FastAPI REST API gateways for real-time telemetry.
+* **Phased Prototype Deployment**: Spearheading a risk-mitigated roadmap by engineering 3 progressive-complexity physical prototypes using synthetic data to secure early industry buy-in.
 
 **AI, Machine Learning & Analytics**
-* Predictive Maintenance Modeling: Training and deploying ensemble ML classifiers (XGBoost, Random Forests) on high-dimensional sensor telemetry to forecast thermal and current anomalies.
-* Advanced ML Optimization: Resolving extreme class imbalances and noisy features in field telemetry using SMOTE and Recursive Feature Elimination (RFE).
-* Root Cause AI Diagnostics: Engineering an analogy-based AI estimation and semantic rule engine to classify electrical/mechanical faults into actionable, step-by-step physical repair workflows.
-* Carbon Footprint Analytics: Building an automated kg CO2e and cost data-modeling framework (parameterized for Greenly, Sterling, 2030 Calculator) to analyze the carbon impact of repair versus replacement.
+* **Predictive Maintenance Modeling**: Training and deploying ensemble ML classifiers (XGBoost, Random Forests) on high-dimensional sensor telemetry to forecast thermal and current anomalies.
+* **Advanced ML Optimization**: Resolving extreme class imbalances and noisy features in field telemetry using SMOTE and Recursive Feature Elimination (RFE).
+* **Root Cause AI Diagnostics**: Engineering an analogy-based AI estimation and semantic rule engine to classify electrical/mechanical faults into actionable, step-by-step physical repair workflows.
+* **Carbon Footprint Analytics**: Building an automated kg CO2e and cost data-modeling framework (parameterized for Greenly, Sterling, 2030 Calculator) to analyze the carbon impact of repair versus replacement.
 
 **Commercialization, Dissemination & Impact**
-* Commercial: Built a Neutral Data Broker Model projected to cut warranty costs by 5% (a 3% sector profit increase); designed subscription scaling to capture 90% of UK manufacturers in 5 years.
-* Environmental: Replaced static spreadsheets with real-time, on-site carbon calculators aligning with the Environment Act (2021) and UN SDG 12 to divert electronic waste from landfills.
-* Social & Economic: Addressed the UK technician shortage by converting complex telemetry into a standardized national training taxonomy to accelerate apprentice field deployment.
+* **Commercial**: Built a Neutral Data Broker Model projected to cut warranty costs by 5% (a 3% sector profit increase); designed subscription scaling to capture 90% of UK manufacturers in 5 years.
+* **Environmental**: Replaced static spreadsheets with real-time, on-site carbon calculators aligning with the Environment Act (2021) and UN SDG 12 to divert electronic waste from landfills.
+* **Social & Economic**: Addressed the UK technician shortage by converting complex telemetry into a standardized national training taxonomy to accelerate apprentice field deployment.
 
 ---
 
@@ -62,11 +61,11 @@ Project Profile: Leading end-to-end product strategy, technical architecture, an
 * Addressed the failure of standard data frameworks to capture cascading, inter-dependent underground failures and feedback-driven interaction collapses.
 * Resolved severe physical data scarcity that prohibited the deployment of standard, unguided machine learning models in safety-critical urban monitoring environments.
 * Created a physics-guided, diagnostic-first machine learning framework that integrates three distinct infrastructure subsystems into a unified system-of-systems smart city model.
-* Overcame real-world data scarcity by generating large-scale, evidence-based synthetic datasets via Synthetic Data Vault (SDV) and literature-constrained Monte Carlo simulations.
+* Overcame real-world data scarcity by generating large-scale, evidence-based synthetic datasets via **Synthetic Data Vault (SDV)**  and literature-constrained Monte Carlo simulations.
 * Implemented joint exploratory analysis and rigorous feature engineering using Variance Inflation Factor (VIF) and diagnostic PCA to contract the feature space by ~40%.
 * Built imbalance-aware predictive models using Random Forest and XGBoost, selecting algorithms optimized for failure recall and macro F1-scores to catch critical structural anomalies.
 * Validated decision-logic consistency across 50+ experimental model runs via SHAP-based explainability, sensitivity benchmarking, and subsystem ablation.
-* Leveraged Large Language Models (LLMs) to optimize code architecture, debug complex simulation workflows, and maintain version-controlled MLOps pipelines on GitHub.
+* Leveraged **Large Language Models (LLMs)** to optimize code architecture, debug complex simulation workflows, and maintain version-controlled MLOps pipelines on GitHub.
 * Empowered civil asset-management organizations, municipal smart city planners, infrastructure owners, and utility operators with data-driven decision capabilities.
 * Contributed to the academic research community in civil systems engineering, environmental monitoring, and urban telemetry through high-quality peer-reviewed journal publications.
 * Reduced manual data preparation and collection efforts by ~60% across repeated experiment environments.
