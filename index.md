@@ -3,7 +3,7 @@
 # Ullas Shivaprakash
 **Lead AI Product Owner & Solutions Architect | Machine Learning Engineer**
 
-[+44 7442625595](tel:+447442625595) | [ullas30101996@gmail.com](mailto:ullas30101996@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ullas-shivaprakash/) | [Google Scholar](https://scholar.google.com/citations?user=your_id) | [ORCID](https://orcid.org/0000-0002-9000-3234) | [Portfolio](https://ullas30101996.github.io)
+[+44 7442625595](tel:+447442625595), [ullas30101996@gmail.com](mailto:ullas30101996@gmail.com), [LinkedIn](https://www.linkedin.com/in/ullas-shivaprakash/), [Google Scholar](https://scholar.google.com/citations?user=your_id), [ORCID](https://orcid.org/0000-0002-9000-3234), [Portfolio](https://ullas30101996.github.io)
 
 ### A. Visa Status & Work Authorization
 Active Visa holder with full residency and independent work privileges. Possesses complete professional autonomy in the United Kingdom with absolute freedom from employer visa sponsorship, administrative transfers, or bureaucratic assistance.
