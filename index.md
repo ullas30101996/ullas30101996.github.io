@@ -1,3 +1,5 @@
+![Ullas Shivaprakash](profile.jpeg){: style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto;"}
+
 # Ullas Shivaprakash
 **Lead AI Product Owner & Solutions Architect | Machine Learning Engineer**
 
